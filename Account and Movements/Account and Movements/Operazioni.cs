@@ -69,6 +69,7 @@ namespace Account_and_Movements
 
         public static void InserisciMovimento(IDictionary<int, Account> dictAccount)
         {
+            //TODO: controlli su input utente con metodi riutilizabili
             Console.WriteLine("A quale conto vuoi associare il movimento? Inserisci il numero del conto.");
             bool check3 = Int32.TryParse(Console.ReadLine(), out int numeroConto3);
             while (!check3)
