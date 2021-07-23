@@ -1,0 +1,16 @@
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\bin\Debug\net5.0\Account and Movements.exe
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\bin\Debug\net5.0\Account and Movements.deps.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\bin\Debug\net5.0\Account and Movements.runtimeconfig.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\bin\Debug\net5.0\Account and Movements.runtimeconfig.dev.json
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\bin\Debug\net5.0\Account and Movements.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\bin\Debug\net5.0\ref\Account and Movements.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\bin\Debug\net5.0\Account and Movements.pdb
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\obj\Debug\net5.0\Account and Movements.csprojAssemblyReference.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\obj\Debug\net5.0\Account and Movements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\obj\Debug\net5.0\Account and Movements.AssemblyInfoInputs.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\obj\Debug\net5.0\Account and Movements.AssemblyInfo.cs
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\obj\Debug\net5.0\Account and Movements.csproj.CoreCompileInputs.cache
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\obj\Debug\net5.0\Account and Movements.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\obj\Debug\net5.0\ref\Account and Movements.dll
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\obj\Debug\net5.0\Account and Movements.pdb
+C:\Users\giulia.tuttobene\Desktop\Academy\Academy 2\Account and Movements\Account and Movements\obj\Debug\net5.0\Account and Movements.genruntimeconfig.cache
